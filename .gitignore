@@ -1,0 +1,7 @@
+# Ignorar diretórios do Terraform
+.terraform/
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+.terraform.lock.hcl
